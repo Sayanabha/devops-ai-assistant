@@ -73,7 +73,7 @@ devops-ai-assistant/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/devops-ai-assistant.git
+git clone https://github.com/Sayanabha/devops-ai-assistant.git
 cd devops-ai-assistant
 ```
 
